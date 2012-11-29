@@ -15,7 +15,7 @@ This demo shows how we turned one of the most complex super computing tasks, wea
 
 <a name="setup" />
 ### Setup and Configuration ###
-Run through the demo once, perhaps submit a weather forecast the night before your demo. Please read this optional [blog on technical detials](http://blogs.msdn.com/b/hpctrekker/archive/2012/11/26/running-weather-research-forecast-as-a-service-on-windows-azure.aspx). 
+Run through the demo once, perhaps submit a weather forecast the night before your demo. Please read this optional [blog on technical details](http://blogs.msdn.com/b/hpctrekker/archive/2012/11/26/running-weather-research-forecast-as-a-service-on-windows-azure.aspx). 
 
 > **Note:**  Please note that Step 11 - 13 are optional.   You may use screenshots from the deck [AdditionalScreenshots.pptx](https://github.com/WindowsAzure-TrainingKit/Demo-WeatherService/blob/master/AdditionalScreenshots.pptx) instead of using the live Windows Azure Portal to show the actual deployment.
 
